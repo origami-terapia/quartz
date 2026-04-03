@@ -13,3 +13,5 @@ Aqui, as ideias crescem de forma orgânica. Sinta-se à vontade para navegar pel
 - [[Origami Terapêutico]]
 - [[Estudos sobre Psicodélicos]]
 - [[psicologo clinico]] 
+
+@origamiterapia

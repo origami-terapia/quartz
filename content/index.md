@@ -1,10 +1,10 @@
 ---
-title: Jardim Digital de Bruno Lopes
+title: Jardim Digital de Bruno Ferraz
 ---
 
 # Bem-vindo ao meu Jardim Digital
 
-Olá! Sou o Bruno, terapeuta e autor. Este espaço é dedicado às minhas pesquisas sobre **Psicoterapia Assistida por Psicodélicos**, **Cannabis Medicinal** e a arte do **Origami**.
+Olá! Sou o Bruno, psicoterapeuta e autor. Este espaço é dedicado às minhas pesquisas sobre **Psicoterapia Assistida por Psicodélicos**, **Cannabis Medicinal** e a arte do **Origami**.
 
 Aqui, as ideias crescem de forma orgânica. Sinta-se à vontade para navegar pelas minhas notas e conexões.
 
@@ -12,3 +12,4 @@ Aqui, as ideias crescem de forma orgânica. Sinta-se à vontade para navegar pel
 - [[Psicoterapia e Saúde Mental]]
 - [[Origami Terapêutico]]
 - [[Estudos sobre Psicodélicos]]
+- [[psicólogo clínico]] 

@@ -4,6 +4,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/origami-terapia/quartz",
@@ -22,11 +23,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TableOfContents(),
     Component.Backlinks(),
   ],
-  afterBody: [
-    Component.RecentNotes({
-      limit: 6,
-    }),
-  ],
 }
 
 export const defaultListPageLayout: PageLayout = {
@@ -36,5 +32,4 @@ export const defaultListPageLayout: PageLayout = {
   ],
   left: [],
   right: [],
-  afterBody: [],
 }

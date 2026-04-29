@@ -20,6 +20,9 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [],
   right: [
+    Component.Search(),
+    Component.Explorer(),
+    Component.Graph(),
     Component.TableOfContents(),
     Component.Backlinks(),
   ],
@@ -31,5 +34,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.ArticleTitle(),
   ],
   left: [],
-  right: [],
+  right: [
+    Component.Search(),
+    Component.Explorer(),
+  ],
 }

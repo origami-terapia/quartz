@@ -12,7 +12,7 @@ Aqui, as ideias crescem de forma orgânica. Sinta-se à vontade para navegar pel
 - [[Psicoterapia e Saúde Mental]]
 - [[Origami Terapêutico]]
 - [[Estudos sobre Psicodélicos]]
-- [[psicologo clinico]] 
+- [[sobre]] 
 
 @origamiterapia
 :-) 

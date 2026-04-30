@@ -1,14 +1,13 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// Layout compartilhado por todas as páginas
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
     Component.Flex({
       components: [
         {
-          Component: Component.PageTitle(),
+          Component: Component.Spacer(),
           grow: true,
         },
         { Component: Component.Search() },
@@ -22,7 +21,6 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// Páginas de conteúdo
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
@@ -30,19 +28,14 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
   ],
   left: [],
   right: [],
 }
 
-// Páginas de lista (tags, pastas, etc.)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
   ],
   left: [],
   right: [],

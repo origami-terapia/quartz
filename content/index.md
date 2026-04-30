@@ -1,8 +1,5 @@
 ---
-title: Bruno Ferraz | Psicologia Clínica e Origamiterapia
----
----
-title: Bruno Ferraz | Psicologia Clínica, Origamiterapia e Projetos Autorais
+title: Bruno Ferraz | Psicologia Clínica
 ---
 
 # Psicologia clínica com escuta, presença e criatividade
@@ -15,16 +12,21 @@ Aqui você encontra informações sobre meu trabalho clínico, meus livros, curs
 
 ## Áreas do site
 
-- [[Sobre]]
-- [[Psicoterapia]]
-- [[Origamiterapia]]
-- [[Livros]]
-- [[Curso]]
-- [[Workshops]]
-- [[Contato]]
+- [Sobre](/sobre)
+- [Psicoterapia](/psicoterapia)
+- [Origamiterapia](/origamiterapia)
+- [Livros](/livros)
+- [Curso](/curso)
+- [Workshops](/workshops)
+- [Contato](/contato)
 
 ## Um trabalho que une técnica e sensibilidade
 
 Acredito que o cuidado psicológico pode ser profundo e, ao mesmo tempo, humano, acessível e criativo. Em alguns percursos, isso acontece pela palavra; em outros, também pelo gesto, pela imagem, pelo símbolo e pela experiência.
 
 É dessa visão que nasce meu trabalho: um espaço onde clínica, arte e desenvolvimento podem dialogar com seriedade, acolhimento e sentido.
+
+## Entre em contato direto comigo
+
+[Falar direto com Bruno no WhatsApp](https://wa.me/5521994668971?text=Ol%C3%A1%2C%20Bruno.%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20seu%20trabalho.)
+

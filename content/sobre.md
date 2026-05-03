@@ -23,3 +23,5 @@ Hoje, meu trabalho reúne esses dois eixos: a psicologia clínica e a pesquisa p
 ## Uma trajetória autoral
 
 Além da clínica, também desenvolvo projetos em origami, cursos, oficinas e publicações. Sou autor de quatro livros e realizo trabalhos que aproximam arte, cuidado, educação e experiências coletivas em empresas, escolas e eventos.
+
+[Falar direto com Bruno no WhatsApp](https://wa.me/5521994668971?text=Ol%C3%A1%2C%20Bruno.%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20seu%20trabalho.)

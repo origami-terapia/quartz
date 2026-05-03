@@ -1,8 +1,8 @@
 
-[[huguinho1.jpg | huguinho]]
+[[huguinho1.jpg | huguinho1]]
+[[huguinho2.jpg | huguinho2]]
 
-![[huguinho2.jpg | huguinho2 | huguinho2 | 100]]
+[[a felicidade the happiness.png | a felicidade/the happiness]]
 
-[[a felicidade the happiness.png]]
 
 

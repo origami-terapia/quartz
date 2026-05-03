@@ -1,14 +1,10 @@
 ---
 title: Sobre
 ---
----
-title: Sobre
----
-
 # Sobre Bruno Ferraz
 
 Sou psicólogo clínico, autor e professor, e desenvolvo um trabalho que integra escuta terapêutica, criatividade e desenvolvimento humano.
-
+![[PXL_20240912_195344583.jpg]]
 Minha atuação em psicologia é voltada ao acolhimento das singularidades de cada pessoa, com atenção aos processos emocionais, relacionais e existenciais envolvidos no sofrimento e na transformação. Ao longo da minha trajetória, venho ampliando minha formação em áreas como Terapia Cognitivo-Comportamental, arteterapia, gestalt terapia, psicomotricidade e estudos voltados ao cuidado em saúde mental.
 
 Paralelamente, construí uma trajetória autoral no origami, com livros publicados, oficinas, cursos e projetos especiais. Esse caminho me permitiu aprofundar a relação entre criação, atenção, simbolização, psicomotricidade e bem-estar.
@@ -17,11 +13,7 @@ Hoje, meu trabalho reúne esses dois eixos: a psicologia clínica e a pesquisa p
 
 ## Áreas de interesse e atuação
 
-- psicologia clínica
 - terapia cognitivo-comportamental
-- arteterapia
-- gestalt terapia
-- psicomotricidade
 - terapia de casal
 - autoestima e desenvolvimento pessoal
 - diversidade e orientação sexual

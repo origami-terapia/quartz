@@ -1,9 +1,6 @@
 ---
 title: Psicoterapia
 ---
----
-title: Psicoterapia
----
 
 # Psicoterapia
 

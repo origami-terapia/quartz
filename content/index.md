@@ -1,7 +1,7 @@
 ---
 title: Bruno Ferraz | Psicologia Clínica
 ---
-
+![[1592493616153..jpg]]
 # Psicologia clínica com escuta, presença e criatividade
 
 Sou **Bruno Ferraz**, psicólogo clínico, autor e professor. Meu trabalho reúne escuta terapêutica, desenvolvimento humano e práticas criativas voltadas ao cuidado emocional, ao autoconhecimento e à transformação pessoal.
@@ -9,16 +9,12 @@ Sou **Bruno Ferraz**, psicólogo clínico, autor e professor. Meu trabalho reún
 Ao longo da minha trajetória, venho construindo uma prática que integra psicologia clínica com recursos expressivos, especialmente por meio da **origamiterapia**, uma proposta que aproxima psicologia, origami, arteterapia, neuropsicologia e psicomotricidade.
 
 Aqui você encontra informações sobre meu trabalho clínico, meus livros, cursos, workshops e projetos que unem cuidado, arte e experiência humana.
-
+![[PXL_20240912_194754554.MP.jpg]]
 ## Áreas do site
 
 - [Sobre](/sobre)
 - [Psicoterapia](/psicoterapia)
-- [Origamiterapia](/origamiterapia)
-- [Livros](/livros)
-- [Curso](/curso)
-- [Workshops](/workshops)
-- [Contato](/contato)
+- [Livros publicados](/livros)
 
 ## Um trabalho que une técnica e sensibilidade
 

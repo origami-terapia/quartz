@@ -2,7 +2,8 @@
 title: Bruno Ferraz | Psicólogo Clínico
 layout: landing
 ---
-# [LOGOTIPO ORIGAMI PSICOLOGIA]
+![[1592493616153..jpg|225]]
+
 
 **[ Início ] [ Quem Somos ] [ Especialidades ] [ Como Funciona ] [ Depoimentos ] [ Contato ]**
 
@@ -27,7 +28,7 @@ Na **Origami**, acreditamos que cada indivíduo possui uma trajetória única. 
 Utilizamos a metáfora do origami porque entendemos que a vida exige flexibilidade e resiliência. Às vezes, precisamos "re-dobrar" nossos caminhos para encontrar equilíbrio e paz mental.
 
 ---
-
+![[Pasted image 20260503230733.png]]
 ### 🛠 Nossas Especialidades
 
 **Cuidado personalizado para cada fase da vida.**
@@ -60,15 +61,13 @@ Utilizamos a metáfora do origami porque entendemos que a vida exige flexibilida
 
 ---
 
-### 💬 O que dizem nossos pacientes
+### 💬 O que dizem
 
-**Depoimentos reais sobre processos de transformação.**
+**processos de transformação.**
 
-> "A Origami mudou minha forma de ver os problemas. Hoje entendo que cada 'dobra' difícil foi necessária para eu me tornar quem sou."  
-> — M. Silva, Paciente há 1 ano.
+> "xxxxxxxxxxxxxxxxxx.
 
-> "Ambiente acolhedor e profissionais extremamente competentes. Me senti seguro desde o primeiro minuto."  
-> — R. Oliveira, Atendimento Online.
+> xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ---
 

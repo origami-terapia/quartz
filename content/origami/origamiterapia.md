@@ -1,23 +1,47 @@
 ---
 title: Origamiterapia
 ---
-
 # Origamiterapia
 
-A origamiterapia é uma proposta autoral que integra psicologia, origami, arteterapia, neuropsicologia e psicomotricidade.
+## O que é origamiterapia?
 
-Ela parte da compreensão de que a dobradura pode ir muito além de uma atividade manual. O origami mobiliza atenção, concentração, coordenação motora fina, percepção espacial, memória, ritmo, criatividade, tolerância à frustração e processos simbólicos. Quando inserido em contextos de cuidado, formação ou desenvolvimento, ele pode se tornar um recurso potente de expressão e elaboração.
+A origamiterapia é uma proposta que integra o origami — a arte de dobrar papel — a recursos da psicologia, arteterapia, neuropsicologia e psicomotricidade, com fins terapêuticos, educativos e expressivos.
 
-Na minha prática, a origamiterapia nasce do encontro entre a escuta clínica e a experiência criativa. O papel dobrado não é apenas um objeto final: ele também é processo, presença, gesto, construção e descoberta.
+Mais do que ensinar a dobrar papel, a origamiterapia usa o processo criativo como caminho de atenção, simbolização e autoconhecimento. O gesto de dobrar, a sequência de etapas, o surgimento de uma forma a partir de uma folha em branco — tudo isso pode revelar, mobilizar e transformar.
 
-## Possibilidades de trabalho
+---
 
-- oficinas terapêuticas
-- grupos e experiências expressivas
-- atividades para desenvolvimento de atenção e concentração
-- práticas com foco em psicomotricidade e simbolização
-- formações para profissionais interessados em interfaces entre arte e cuidado
+## Como funciona na prática
 
-## Um caminho entre clínica, arte e aprendizagem
+Nos grupos e workshops, os participantes são convidados a vivenciar o origami de forma presente e intencional. Não é preciso ter habilidade prévia: o processo importa tanto quanto o resultado.
 
-A origamiterapia não substitui a psicoterapia, mas pode dialogar com diferentes contextos de cuidado e desenvolvimento humano. Seu valor está justamente na possibilidade de articular técnica, experiência sensível, criação e reflexão.
+Durante as práticas, trabalhamos com:
+
+- **Atenção e foco** — o origami exige presença e concentração, favorecendo estados de calma e fluxo
+- **Psicomotricidade** — o movimento das mãos ativa regiões cerebrais ligadas ao raciocínio, memória e coordenação
+- **Simbolização** — cada figura pode ser um ponto de partida para reflexão, conversa e elaboração
+- **Criatividade e expressão** — o erro faz parte; aprender a lidar com ele é também aprender sobre si
+
+---
+
+## Para quem é indicada
+
+A origamiterapia pode ser uma experiência significativa para pessoas e grupos que buscam:
+
+- Redução de ansiedade e estresse
+- Melhora do foco e da atenção
+- Experiências de criação coletiva e vínculo
+- Recursos expressivos complementares à psicoterapia
+- Atividades de cuidado emocional em empresas, escolas ou eventos
+
+---
+
+## Modalidades
+
+Os workshops e grupos podem acontecer de forma **presencial ou online**, com formatos adaptados ao contexto — empresas, instituições de saúde, escolas, grupos terapêuticos e eventos culturais.
+
+---
+
+## Quer saber mais ou agendar um workshop?
+
+[Falar direto com Bruno no WhatsApp](https://wa.me/5521994668971?text=Ol%C3%A1%2C%20Bruno.%20Tenho%20interesse%20em%20saber%20mais%20sobre%20a%20origamiterapia.)

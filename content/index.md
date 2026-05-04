@@ -1,43 +1,30 @@
 ---
-title: Bruno Ferraz | Psicólogo Clínico
-layout: landing
+title: Bruno Ferraz | Psicologia Clínica
 ---
+![[1592493616153..jpg|225]]
+# Psicologia clínica com escuta, presença e criatividade
 
-<div class="hero-section">
-  <h1>A arte de dobrar e desdobrar a subjetividade.</h1>
-  <p>Psicoterapia clínica com foco em redução de danos, acolhimento e novas perspectivas terapêuticas.</p>
-  <a href="https://wa.me/SEUNUMERO" class="cta-button">Agendar Consulta</a>
-</div>
+Sou **Bruno Ferraz**, psicólogo clínico, autor e professor. Meu trabalho reúne escuta terapêutica, desenvolvimento humano e práticas criativas voltadas ao cuidado emocional, ao autoconhecimento e à transformação pessoal.
 
-## Sobre o Trabalho
-Sou Bruno Ferraz (CRP 05/XXXXX), psicólogo clínico dedicado a acompanhar processos de transformação. Meu trabalho busca integrar abordagens tradicionais com recursos inovadores para o cuidado da saúde mental.
+[Falar direto com Bruno no WhatsApp](https://wa.me/5521994668971?text=Ol%C3%A1%2C%20Bruno.%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20seu%20trabalho.)
 
-### Áreas de Atuação e Pesquisa
-<div class="services-grid">
-  <div class="service-card">
-    <h3>Psicoterapia Clínica</h3>
-    <p>Atendimento individual focado na autonomia e no alívio do sofrimento ético-político e emocional.</p>
-  </div>
-  <div class="service-card">
-    <h3>Origami Terapêutico</h3>
-    <p>A dobra do papel como metáfora e ferramenta para a atenção plena e expressão do self.</p>
-  </div>
-  <div class="service-card">
-    <h3>Integração e Redução de Danos</h3>
-    <p>Suporte e orientações sobre Psicoterapia Assistida por Psicodélicos e Cannabis Medicinal.</p>
-  </div>
-</div>
+Ao longo da minha trajetória, venho construindo uma prática que integra psicologia clínica com recursos expressivos, especialmente por meio da **origamiterapia**, uma proposta que aproxima psicologia, origami, arteterapia, neuropsicologia e psicomotricidade.
 
----
+Aqui você encontra informações sobre meu trabalho clínico, meus livros, cursos, workshops e projetos que unem cuidado, arte e experiência humana.
+![[PXL_20240912_194754554.MP.jpg]]
+## Áreas do site
 
-## 🌿 Jardim Digital & Notas
-*Explore minhas pesquisas, pensamentos e conexões de forma orgânica:*
+- [Sobre](/sobre)
+- [Psicoterapia](/psicoterapia)
+- [Livros publicados](/livros)
 
-[Acesse o Índice de Notas aqui](\notas)
+## Um trabalho que une técnica e sensibilidade
 
----
+Acredito que o cuidado psicológico pode ser profundo e, ao mesmo tempo, humano, acessível e criativo. Em alguns percursos, isso acontece pela palavra; em outros, também pelo gesto, pela imagem, pelo símbolo e pela experiência.
 
-<div class="footer-clinic">
-  <p><b>Bruno Ferraz</b> - Psicólogo Clínico (CRP 05/XXXXX)</p>
-  <p>Atendimento Online e Presencial | [Link para o E-Psi](https://e-psi.cfp.org.br/)</p>
-</div>
+É dessa visão que nasce meu trabalho: um espaço onde clínica, arte e desenvolvimento podem dialogar com seriedade, acolhimento e sentido.
+
+## Entre em contato direto comigo
+
+[Falar direto com Bruno no WhatsApp](https://wa.me/5521994668971?text=Ol%C3%A1%2C%20Bruno.%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20seu%20trabalho.)
+

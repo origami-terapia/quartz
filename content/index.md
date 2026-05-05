@@ -8,6 +8,16 @@ tags:
   - saúde mental
 draft: false
 ---
+---
+title: Bruno Ferraz | Psicólogo Clínico
+description: Psicoterapia individual na abordagem da Terapia Cognitivo-Comportamental (TCC). Atendimento online e presencial no Grajaú, Rio de Janeiro.
+tags:
+  - psicologia
+  - psicoterapia
+  - TCC
+  - saúde mental
+draft: false
+---
 
 <style>
 :root {
@@ -26,6 +36,22 @@ draft: false
 .page-content, article.popover-hint {
   max-width: 100% !important;
   padding: 0 !important;
+}
+
+/* ── IMAGENS ── */
+.lp-logo {
+  max-width: 240px;
+  margin: 0 auto 32px;
+  display: block;
+}
+
+.lp-profile-img {
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 28px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  border: 1px solid rgba(122,158,135,0.2);
+  object-fit: cover;
 }
 
 /* ── HERO ── */
@@ -224,7 +250,7 @@ draft: false
 /* ── ABOUT GRID ── */
 .lp-about-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1.1fr 0.9fr;
   gap: 64px;
   align-items: start;
 }
@@ -268,63 +294,6 @@ draft: false
   font-size: 0.82rem;
   color: var(--stone);
   line-height: 1.5;
-  margin: 0 !important;
-}
-
-/* ── CARDS ── */
-.lp-cards {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 24px;
-  margin-top: 48px;
-}
-
-.lp-card {
-  padding: 32px 26px;
-  border: 1px solid rgba(122,158,135,0.2);
-  border-radius: 8px;
-  background: #faf8f4;
-  position: relative;
-  overflow: hidden;
-  transition: transform 0.3s, box-shadow 0.3s;
-}
-
-.lp-card::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0; right: 0;
-  height: 3px;
-  background: linear-gradient(90deg, var(--sage), var(--sage-light));
-  transform: scaleX(0);
-  transform-origin: left;
-  transition: transform 0.4s ease;
-}
-
-.lp-card:hover::before { transform: scaleX(1); }
-.lp-card:hover { transform: translateY(-4px); box-shadow: 0 16px 48px rgba(0,0,0,0.08); }
-
-.lp-card-num {
-  font-family: var(--font-display);
-  font-size: 2.8rem;
-  font-weight: 300;
-  color: var(--sage-light);
-  line-height: 1;
-  margin-bottom: 14px;
-}
-
-.lp-card h3 {
-  font-family: var(--font-display);
-  font-size: 1.15rem;
-  font-weight: 500;
-  color: var(--ink);
-  margin-bottom: 10px !important;
-  border: none !important;
-}
-
-.lp-card p {
-  font-size: 0.88rem;
-  color: var(--stone);
-  line-height: 1.7;
   margin: 0 !important;
 }
 
@@ -465,7 +434,6 @@ draft: false
     padding-right: 20px !important;
   }
   .lp-about-grid, .lp-highlight-grid { grid-template-columns: 1fr; gap: 40px; }
-  .lp-cards { grid-template-columns: 1fr; }
   .lp-issues { grid-template-columns: repeat(2, 1fr); }
   .lp-steps { grid-template-columns: 1fr; }
   .lp-trust { gap: 16px; }
@@ -481,6 +449,9 @@ draft: false
 <!--  HERO                                  -->
 <!-- ═══════════════════════════════════════ -->
 <div class="lp-hero">
+  <!-- LOGO AQUI -->
+  <img src="logo.jpg" alt="Logo Bruno Ferraz" class="lp-logo">
+  
   <div class="lp-eyebrow">Bruno Ferraz · Psicólogo Clínico</div>
   <h1 class="lp-hero-h1">
     Psicoterapia baseada em <em style="font-style:italic;color:#4e7259;">evidências</em> e acolhimento
@@ -505,6 +476,9 @@ draft: false
 <div class="lp-about-grid">
 
 <div class="lp-about-text">
+  <!-- FOTO DE PERFIL AQUI -->
+  <img src="perfil.jpg" alt="Bruno Ferraz no consultório" class="lp-profile-img">
+
   <div class="lp-label">Quem sou</div>
   <div class="lp-h2">Psicologia com foco na <em>ação e mudança</em></div>
   <p>Sou <strong>Bruno Ferraz</strong>, psicólogo clínico com especialização na abordagem da Terapia Cognitivo-Comportamental (TCC). Atualmente, também me dedico à especialização em neuropsicologia, aprofundando o entendimento de como nosso funcionamento cerebral reflete no comportamento.</p>

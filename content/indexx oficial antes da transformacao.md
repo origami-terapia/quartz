@@ -2,7 +2,7 @@
 title: Bruno Ferraz | Psicólogo Clínico
 layout: landing
 ---
-![[1592493616153..jpg|225]]
+![[logo.jpg.jpg|225]]
 
 
 **[ Início ] [ Quem Somos ] [ Especialidades ] [ Como Funciona ] [ Depoimentos ] [ Contato ]**

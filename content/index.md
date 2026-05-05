@@ -10,13 +10,11 @@ draft: false
 ---
 ---
 title: Bruno Ferraz | Psicólogo Clínico
-description: Psicoterapia individual na abordagem da Terapia Cognitivo-Comportamental (TCC). Atendimento online e presencial no Grajaú, Rio de Janeiro.
+description: Psicoterapia individual na abordagem da Terapia Cognitivo-Comportamental (TCC). Atendimento online e presencial na Tijuca e Centro, Rio de Janeiro.
 tags:
   - psicologia
   - psicoterapia
   - TCC
-  - saúde mental
-draft: false
 ---
 
 <style>

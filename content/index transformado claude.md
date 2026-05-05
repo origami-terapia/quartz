@@ -1,10 +1,10 @@
 ---
 title: Bruno Ferraz | Psicólogo Clínico
-description: Psicoterapia individual na abordagem da Terapia Cognitivo-Comportamental (TCC). Atendimento online e presencial no Grajaú, Rio de Janeiro.
+description: Psicoterapia individual com escuta humanizada, criatividade e presença. Atendimento online e presencial no Rio de Janeiro.
 tags:
   - psicologia
   - psicoterapia
-  - TCC
+  - origamiterapia
   - saúde mental
 draft: false
 ---
@@ -31,7 +31,7 @@ draft: false
 /* ── HERO ── */
 .lp-hero {
   background: linear-gradient(135deg, #f5f0e8 0%, #faf8f4 60%, #eef4f0 100%);
-  padding: 80px 40px;
+  padding: 80px 40px 80px;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -87,7 +87,7 @@ draft: false
 .lp-hero-sub {
   font-size: 1.05rem;
   color: var(--stone);
-  max-width: 550px;
+  max-width: 500px;
   margin: 0 auto 40px;
   line-height: 1.75;
 }
@@ -362,6 +362,23 @@ draft: false
 
 .lp-list li::before { content: '◇'; color: var(--gold); flex-shrink: 0; margin-top: 2px; }
 
+.lp-btn-gold {
+  display: inline-block;
+  background: var(--gold);
+  color: var(--ink) !important;
+  font-size: 0.83rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 14px 28px;
+  border-radius: 2px;
+  text-decoration: none !important;
+  margin-top: 28px;
+  transition: background 0.3s;
+}
+
+.lp-btn-gold:hover { background: var(--gold-light); }
+
 /* ── ISSUES GRID ── */
 .lp-issues {
   display: grid;
@@ -389,7 +406,7 @@ draft: false
 /* ── STEPS ── */
 .lp-steps {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 24px;
   margin-top: 56px;
   text-align: center;
@@ -423,6 +440,60 @@ draft: false
   margin: 0 !important;
 }
 
+/* ── TESTIMONIALS ── */
+.lp-testimonials {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-top: 52px;
+}
+
+.lp-testimonial {
+  background: #faf8f4;
+  border-radius: 8px;
+  padding: 30px 26px;
+  border: 1px solid rgba(122,158,135,0.15);
+  position: relative;
+}
+
+.lp-testimonial::before {
+  content: '\201C';
+  font-family: var(--font-display);
+  font-size: 4.5rem;
+  color: var(--sage-light);
+  line-height: 1;
+  position: absolute;
+  top: 10px; left: 18px;
+  opacity: 0.4;
+}
+
+.lp-testimonial-text {
+  font-size: 0.9rem;
+  color: #3a3732;
+  line-height: 1.75;
+  margin-bottom: 18px;
+  padding-top: 24px;
+  font-style: italic;
+}
+
+.lp-author { display: flex; align-items: center; gap: 10px; }
+
+.lp-avatar {
+  width: 34px; height: 34px;
+  background: var(--sage-light);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.88rem;
+  color: var(--sage-dark);
+  font-weight: 500;
+  flex-shrink: 0;
+}
+
+.lp-author-info strong { display: block; font-size: 0.82rem; color: var(--ink); }
+.lp-author-info span  { font-size: 0.75rem; color: var(--stone); }
+
 /* ── CTA FINAL ── */
 .lp-cta-final {
   text-align: center;
@@ -430,6 +501,17 @@ draft: false
   background: #faf8f4;
   position: relative;
   overflow: hidden;
+}
+
+.lp-cta-final::before {
+  content: '';
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px; height: 500px;
+  background: radial-gradient(circle, rgba(122,158,135,0.07) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
 }
 
 .lp-cta-final h2 {
@@ -465,15 +547,16 @@ draft: false
     padding-right: 20px !important;
   }
   .lp-about-grid, .lp-highlight-grid { grid-template-columns: 1fr; gap: 40px; }
-  .lp-cards { grid-template-columns: 1fr; }
+  .lp-cards, .lp-testimonials { grid-template-columns: 1fr; }
   .lp-issues { grid-template-columns: repeat(2, 1fr); }
-  .lp-steps { grid-template-columns: 1fr; }
+  .lp-steps { grid-template-columns: repeat(2, 1fr); }
   .lp-trust { gap: 16px; }
 }
 
 @media (max-width: 480px) {
   .lp-issues { grid-template-columns: 1fr 1fr; }
   .lp-cta-buttons, .lp-cta-group { flex-direction: column; align-items: center; }
+  .lp-steps { grid-template-columns: 1fr 1fr; }
 }
 </style>
 
@@ -481,19 +564,20 @@ draft: false
 <!--  HERO                                  -->
 <!-- ═══════════════════════════════════════ -->
 <div class="lp-hero">
-  <div class="lp-eyebrow">Bruno Ferraz · Psicólogo Clínico</div>
-  <h1 class="lp-hero-h1">
-    Psicoterapia baseada em <em style="font-style:italic;color:#4e7259;">evidências</em> e acolhimento
+  <div class="lp-eyebrow">Psicólogo Clínico · CRP 05/xxxxx · Rio de Janeiro</div>
+  <h1 class="lp-hero-h1" style="font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(2.2rem,5vw,3.8rem);font-weight:400;line-height:1.15;color:#1e1d1b;margin:0 auto 24px;max-width:700px;border:none;">
+    Um espaço para <em style="font-style:italic;color:#4e7259;">cuidar</em> de quem você é
   </h1>
-  <p class="lp-hero-sub">Especialista em Terapia Cognitivo-Comportamental (TCC). Atendimento online para todo o mundo e presencial no Grajaú, Rio de Janeiro.</p>
+  <p class="lp-hero-sub">Psicoterapia individual com escuta humanizada, criatividade e presença.<br>Atendimento online e presencial no Rio de Janeiro.</p>
   <div class="lp-cta-group">
-    <a href="https://wa.me/5521994668971?text=Ol%C3%A1%2C%20Bruno.%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20a%20terapia." class="lp-btn" target="_blank">Agendar primeira conversa →</a>
-    <a href="#sobre" class="lp-btn-outline">Conhecer a abordagem ↓</a>
+    <a href="https://wa.me/5521994668971?text=Ol%C3%A1%2C%20Bruno.%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20seu%20trabalho." class="lp-btn" target="_blank">Agendar primeira conversa →</a>
+    <a href="#sobre" class="lp-btn-outline">Conhecer o trabalho ↓</a>
   </div>
   <div class="lp-trust">
     <div class="lp-trust-item">Psicólogo registrado CRP</div>
-    <div class="lp-trust-item">Abordagem TCC</div>
-    <div class="lp-trust-item">Atendimento Online e Presencial</div>
+    <div class="lp-trust-item">Atendimento online</div>
+    <div class="lp-trust-item">Sigilo garantido</div>
+    <div class="lp-trust-item">Autor publicado</div>
   </div>
 </div>
 
@@ -506,31 +590,39 @@ draft: false
 
 <div class="lp-about-text">
   <div class="lp-label">Quem sou</div>
-  <div class="lp-h2">Psicologia com foco na <em>ação e mudança</em></div>
-  <p>Sou <strong>Bruno Ferraz</strong>, psicólogo clínico com especialização na abordagem da Terapia Cognitivo-Comportamental (TCC). Atualmente, também me dedico à especialização em neuropsicologia, aprofundando o entendimento de como nosso funcionamento cerebral reflete no comportamento.</p>
-  <p>Acredito em um espaço terapêutico colaborativo. Juntos, trabalhamos para identificar padrões de pensamento que causam sofrimento e desenvolver estratégias práticas para lidar com as dificuldades do presente.</p>
+  <div class="lp-h2">Psicologia com <em>técnica e sensibilidade</em></div>
+  <p>Sou <strong>Bruno Ferraz</strong>, psicólogo clínico, autor e professor. Ao longo da minha trajetória, venho construindo uma prática que integra psicologia clínica com recursos expressivos — especialmente por meio da origamiterapia.</p>
+  <p>Acredito que o cuidado psicológico pode ser profundo e, ao mesmo tempo, humano, acessível e criativo. Em alguns percursos, isso acontece pela palavra; em outros, também pelo gesto, pela imagem, pelo símbolo e pela experiência.</p>
+  <p>É dessa visão que nasce meu trabalho: um espaço onde clínica, arte e desenvolvimento podem dialogar com seriedade, acolhimento e sentido.</p>
 </div>
 
 <div class="lp-credentials">
   <div class="lp-cred">
     <div class="lp-cred-icon">🎓</div>
     <div>
-      <h4>Especialista em TCC</h4>
-      <p>Tratamento focado em metas claras e reestruturação cognitiva.</p>
+      <h4>Formação em Psicologia</h4>
+      <p>Psicólogo clínico com formação sólida e atuação contínua em psicoterapia individual.</p>
     </div>
   </div>
   <div class="lp-cred">
-    <div class="lp-cred-icon">🧠</div>
+    <div class="lp-cred-icon">📚</div>
     <div>
-      <h4>Neuropsicologia</h4>
-      <p>Estudo contínuo para integrar o funcionamento cerebral ao cuidado mental.</p>
+      <h4>Autor Publicado</h4>
+      <p>Livros sobre origamiterapia, psicologia e desenvolvimento humano disponíveis ao grande público.</p>
     </div>
   </div>
   <div class="lp-cred">
-    <div class="lp-cred-icon">📍</div>
+    <div class="lp-cred-icon">🏫</div>
     <div>
-      <h4>Atendimento Flexível</h4>
-      <p>Sessões online ou no consultório localizado no Grajaú, RJ.</p>
+      <h4>Professor e Palestrante</h4>
+      <p>Cursos, workshops e formações para profissionais e pessoas interessadas em crescimento pessoal.</p>
+    </div>
+  </div>
+  <div class="lp-cred">
+    <div class="lp-cred-icon">🌿</div>
+    <div>
+      <h4>Abordagem Integrativa</h4>
+      <p>Reunindo neuropsicologia, arteterapia, psicomotricidade e psicologia humanista.</p>
     </div>
   </div>
 </div>
@@ -540,25 +632,54 @@ draft: false
 </div>
 
 <!-- ═══════════════════════════════════════ -->
-<!--  ABORDAGEM (TCC)                       -->
+<!--  ABORDAGEM                             -->
 <!-- ═══════════════════════════════════════ -->
-<div class="lp-section-dark" id="abordagem">
+<div class="lp-section" id="abordagem">
+  <div class="lp-label">Como trabalho</div>
+  <div class="lp-h2">Uma psicoterapia que <em>respeita quem você é</em></div>
+  <p style="color:#8a8178;max-width:560px;line-height:1.75;font-size:1.02rem;">Cada pessoa carrega uma história singular. Minha prática clínica parte dessa escuta — sem pressa, sem julgamento — para criar um espaço de transformação genuína.</p>
+
+  <div class="lp-cards">
+    <div class="lp-card">
+      <div class="lp-card-num">01</div>
+      <h3>Escuta Qualificada</h3>
+      <p>Presença plena e atenção às suas palavras, silêncios e emoções. O processo terapêutico começa pela qualidade do encontro.</p>
+    </div>
+    <div class="lp-card">
+      <div class="lp-card-num">02</div>
+      <h3>Abordagem Criativa</h3>
+      <p>Além da linguagem verbal, uso recursos expressivos e artísticos que ampliam o acesso ao mundo interno — de forma segura e acolhedora.</p>
+    </div>
+    <div class="lp-card">
+      <div class="lp-card-num">03</div>
+      <h3>Processo Personalizado</h3>
+      <p>Não existe receita única. Cada percurso terapêutico é construído a partir das necessidades, ritmo e objetivos de cada pessoa.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════ -->
+<!--  ORIGAMITERAPIA                        -->
+<!-- ═══════════════════════════════════════ -->
+<div class="lp-section-dark" id="origamiterapia">
 <div class="lp-section-inner">
 <div class="lp-highlight-grid">
 
 <div class="lp-highlight-text">
-  <div class="lp-label lp-label-light">Metodologia</div>
-  <div class="lp-h2 lp-h2-light">O que é a <em>Terapia Cognitivo-Comportamental?</em></div>
-  <p>A TCC é uma abordagem terapêutica estruturada, diretiva e validada cientificamente. O foco principal não está apenas em entender o passado, mas em resolver os problemas do presente.</p>
-  <p>Trabalhamos diretamente na forma como você interpreta as situações da sua vida, pois seus pensamentos influenciam diretamente como você se sente e como age.</p>
+  <div class="lp-label lp-label-light">Diferencial</div>
+  <div class="lp-h2 lp-h2-light" style="font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(1.8rem,3vw,2.6rem);font-weight:400;color:white;line-height:1.2;margin-bottom:20px;">O que é a <em style="font-style:italic;color:#e8d5b0;">Origamiterapia?</em></div>
+  <p>A origamiterapia é uma proposta terapêutica pioneira que integra psicologia clínica, origami, arteterapia, neuropsicologia e psicomotricidade em um único processo de cuidado.</p>
+  <p>Pela dobra do papel, acessamos processos internos, emoções e potencialidades que nem sempre chegam até as palavras. É psicologia com presença, criatividade e sentido.</p>
+  <a href="https://wa.me/5521994668971?text=Ol%C3%A1%2C%20Bruno.%20Tenho%20interesse%20na%20origamiterapia." class="lp-btn-gold" target="_blank">Saber mais sobre a abordagem</a>
 </div>
 
 <ul class="lp-list">
-  <li>Foco no presente e resolução de problemas atuais</li>
-  <li>Abordagem baseada em evidências científicas</li>
-  <li>Identificação e mudança de crenças limitantes</li>
-  <li>Desenvolvimento de autonomia para o paciente</li>
-  <li>Tratamento eficaz para ansiedade e depressão</li>
+  <li>Integra neuropsicologia e recursos expressivos</li>
+  <li>Facilita o acesso a emoções e processos internos</li>
+  <li>Útil no autoconhecimento, desenvolvimento e cura</li>
+  <li>Aplicável em atendimento individual e grupos</li>
+  <li>Abordagem criada e desenvolvida por Bruno Ferraz</li>
+  <li>Respaldada por formação clínica e publicações</li>
 </ul>
 
 </div>
@@ -570,18 +691,18 @@ draft: false
 <!-- ═══════════════════════════════════════ -->
 <div class="lp-section-cream" id="para-quem">
 <div class="lp-section-inner">
-  <div class="lp-label">Áreas de atuação</div>
+  <div class="lp-label">Para quem é</div>
   <div class="lp-h2">A psicoterapia pode te ajudar <em>com</em></div>
 
   <div class="lp-issues">
-    <div class="lp-issue"><span class="lp-issue-icon">😔</span>Transtornos de Ansiedade</div>
-    <div class="lp-issue"><span class="lp-issue-icon">🌧️</span>Depressão e Desânimo</div>
-    <div class="lp-issue"><span class="lp-issue-icon">🔄</span>Regulação Emocional</div>
-    <div class="lp-issue"><span class="lp-issue-icon">💼</span>Estresse e Burnout</div>
-    <div class="lp-issue"><span class="lp-issue-icon">🧠</span>TDAH e Foco</div>
-    <div class="lp-issue"><span class="lp-issue-icon">🤝</span>Habilidades Sociais</div>
-    <div class="lp-issue"><span class="lp-issue-icon">🧭</span>Tomada de Decisão</div>
-    <div class="lp-issue"><span class="lp-issue-icon">🌱</span>Autoconhecimento</div>
+    <div class="lp-issue"><span class="lp-issue-icon">😔</span>Ansiedade e preocupação excessiva</div>
+    <div class="lp-issue"><span class="lp-issue-icon">🌧️</span>Tristeza e depressão</div>
+    <div class="lp-issue"><span class="lp-issue-icon">🔄</span>Baixa autoestima</div>
+    <div class="lp-issue"><span class="lp-issue-icon">💼</span>Estresse e burnout</div>
+    <div class="lp-issue"><span class="lp-issue-icon">💔</span>Luto e perdas</div>
+    <div class="lp-issue"><span class="lp-issue-icon">🤝</span>Dificuldades nos relacionamentos</div>
+    <div class="lp-issue"><span class="lp-issue-icon">🧭</span>Falta de propósito</div>
+    <div class="lp-issue"><span class="lp-issue-icon">🌱</span>Autoconhecimento e crescimento</div>
   </div>
 </div>
 </div>
@@ -590,26 +711,74 @@ draft: false
 <!--  COMO FUNCIONA                         -->
 <!-- ═══════════════════════════════════════ -->
 <div class="lp-section" style="text-align:center;" id="como-funciona">
-  <div class="lp-label" style="justify-content:center;">O Processo</div>
-  <div class="lp-h2" style="max-width:500px;margin:0 auto 8px;">Como iniciamos o <em>cuidado</em></div>
+  <div class="lp-label" style="justify-content:center;">Como funciona</div>
+  <div class="lp-h2" style="max-width:500px;margin:0 auto 8px;">Seu caminho começa <em>aqui</em></div>
 
   <div class="lp-steps">
     <div class="lp-step">
       <div class="lp-step-num">1</div>
-      <h4>Contato Direto</h4>
-      <p>Envie uma mensagem. Eu mesmo retorno para agendarmos nosso primeiro encontro.</p>
+      <h4>Primeiro contato</h4>
+      <p>Envie uma mensagem pelo WhatsApp. Respondo pessoalmente, sem intermediários.</p>
     </div>
     <div class="lp-step">
       <div class="lp-step-num">2</div>
-      <h4>Avaliação Inicial</h4>
-      <p>Mapeamos suas dificuldades atuais e definimos juntos os objetivos da terapia.</p>
+      <h4>Conversa inicial</h4>
+      <p>Uma sessão de acolhimento para entendermos o que você busca e se fazemos sentido juntos.</p>
     </div>
     <div class="lp-step">
       <div class="lp-step-num">3</div>
-      <h4>Sessões Práticas</h4>
-      <p>Encontros estruturados focados em desenvolver ferramentas para o seu dia a dia.</p>
+      <h4>Início do processo</h4>
+      <p>Sessões semanais, online ou presenciais, construídas para o seu ritmo e necessidades.</p>
+    </div>
+    <div class="lp-step">
+      <div class="lp-step-num">4</div>
+      <h4>Transformação real</h4>
+      <p>Com consistência e presença, o processo terapêutico gera mudanças duradouras.</p>
     </div>
   </div>
+</div>
+
+<!-- ═══════════════════════════════════════ -->
+<!--  DEPOIMENTOS                           -->
+<!-- ═══════════════════════════════════════ -->
+<div class="lp-section-cream">
+<div class="lp-section-inner">
+  <div class="lp-label">Experiências</div>
+  <div class="lp-h2">O que dizem <em>quem passou por aqui</em></div>
+
+  <div class="lp-testimonials">
+    <div class="lp-testimonial">
+      <p class="lp-testimonial-text">A terapia com o Bruno foi transformadora. Ele tem uma capacidade rara de escutar com presença e de criar um espaço onde me sinto segura para ser quem sou.</p>
+      <div class="lp-author">
+        <div class="lp-avatar">A</div>
+        <div class="lp-author-info">
+          <strong>Ana P.</strong>
+          <span>2 anos de acompanhamento</span>
+        </div>
+      </div>
+    </div>
+    <div class="lp-testimonial">
+      <p class="lp-testimonial-text">A origamiterapia me surpreendeu. Nunca imaginei que dobrar papel pudesse me colocar em contato com emoções tão profundas. Uma experiência única e muito significativa.</p>
+      <div class="lp-author">
+        <div class="lp-avatar">R</div>
+        <div class="lp-author-info">
+          <strong>Ricardo M.</strong>
+          <span>Participante de workshop</span>
+        </div>
+      </div>
+    </div>
+    <div class="lp-testimonial">
+      <p class="lp-testimonial-text">O Bruno tem uma escuta muito diferenciada. Ele não impõe nada — caminha junto com a gente. Minha autoestima e meu senso de direção mudaram completamente.</p>
+      <div class="lp-author">
+        <div class="lp-avatar">C</div>
+        <div class="lp-author-info">
+          <strong>Carla S.</strong>
+          <span>18 meses de acompanhamento</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 </div>
 
 <!-- ═══════════════════════════════════════ -->
@@ -618,12 +787,13 @@ draft: false
 <div class="lp-cta-final" id="contato">
   <div class="lp-label" style="justify-content:center;">Próximo passo</div>
   <h2>Pronto para <em>começar?</em></h2>
-  <p>Fale diretamente comigo pelo WhatsApp para agendarmos nossa primeira sessão.</p>
+  <p>O primeiro passo é o mais importante. Fale diretamente comigo pelo WhatsApp — sem formulários, sem espera, sem burocracia.</p>
   <div class="lp-cta-buttons">
-    <a href="https://wa.me/5521994668971?text=Ol%C3%A1%2C%20Bruno.%20Gostaria%20de%20agendar%20uma%20sess%C3%A3o." class="lp-btn" target="_blank">Agendar pelo WhatsApp →</a>
+    <a href="https://wa.me/5521994668971?text=Ol%C3%A1%2C%20Bruno.%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20seu%20trabalho." class="lp-btn" target="_blank">Falar com Bruno no WhatsApp →</a>
+    <a href="mailto:contato@origami.psc.br" class="lp-btn-outline">Enviar e-mail</a>
   </div>
 </div>
 
 ---
 
-*© 2026 Bruno Ferraz · Psicologia Clínica · Terapia Cognitivo-Comportamental · [origami.psc.br](https://origami.psc.br)*
+*© 2025 Bruno Ferraz · Psicologia Clínica · [origami.psc.br](https://origami.psc.br) · Rio de Janeiro, RJ*

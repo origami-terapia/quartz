@@ -1,0 +1,41 @@
+---
+title: Bruno Ferraz | Psicólogo Clínico
+description: Psicoterapia individual na abordagem da Terapia Cognitivo-Comportamental (TCC). Atendimento online e presencial no Grajaú, Rio de Janeiro.
+tags:
+  - psicologia
+  - psicoterapia
+  - TCC
+  - saúde mental
+draft: false
+---
+---
+
+description: tags:
+
+- psicologia
+- psicoterapia
+- TCC
+
+---
+
+<style> :root { --sage: #7a9e87; --sage-dark: #4e7259; --sage-light: #b4cbb9; --cream: #f5f0e8; --stone: #8a8178; --ink: #1e1d1b; --gold: #c8a96e; --gold-light: #e8d5b0; --font-display: 'Cormorant Garamond', Georgia, serif; } .page-content, article.popover-hint { max-width: 100% !important; padding: 0 !important; } /* ── HEADER ── */ .lp-header { background: linear-gradient(135deg, #f5f0e8 0%, #faf8f4 60%, #eef4f0 100%); border-bottom: 1px solid rgba(122,158,135,0.25); padding: 48px 40px 40px; text-align: center; position: relative; overflow: hidden; } .lp-header::before { content: ''; position: absolute; top: -80px; left: 50%; transform: translateX(-50%); width: 500px; height: 500px; background: radial-gradient(circle, rgba(122,158,135,0.08) 0%, transparent 70%); border-radius: 50%; pointer-events: none; } .lp-header-eyebrow { font-size: 0.7rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--sage); margin-bottom: 14px; display: flex; align-items: center; justify-content: center; gap: 10px; } .lp-header-eyebrow::before, .lp-header-eyebrow::after { content: ''; display: block; width: 20px; height: 1px; background: var(--sage); } .lp-header h1 { font-family: var(--font-display); font-size: clamp(1.8rem, 4vw, 3rem); font-weight: 400; line-height: 1.2; color: var(--ink); margin: 0 auto 14px !important; max-width: 680px; border: none !important; } .lp-header h1 em { font-style: italic; color: var(--sage-dark); } .lp-header-sub { font-size: 0.98rem; color: var(--stone); max-width: 500px; margin: 0 auto 28px; line-height: 1.7; } .lp-header-nav { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; } .lp-header-link { font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--stone) !important; text-decoration: none !important; padding: 8px 16px; border: 1px solid rgba(122,158,135,0.3); border-radius: 2px; transition: all 0.25s; } .lp-header-link:hover { border-color: var(--sage-dark); color: var(--sage-dark) !important; } .lp-header-link.primary { background: var(--sage-dark); color: #fff !important; border-color: var(--sage-dark); } .lp-header-link.primary:hover { background: var(--sage); } /* ── ÁREA DE CONTEÚDO ── */ .lp-content { max-width: 740px; margin: 0 auto; padding: 64px 40px 72px; color: #3a3732; font-size: 1rem; line-height: 1.85; } .lp-content h2 { font-family: var(--font-display); font-size: clamp(1.5rem, 2.5vw, 2rem); font-weight: 400; color: var(--ink); margin-top: 48px !important; margin-bottom: 16px !important; border: none !important; } .lp-content h3 { font-family: var(--font-display); font-size: 1.2rem; font-weight: 500; color: var(--sage-dark); margin-top: 32px !important; margin-bottom: 10px !important; } .lp-content p { margin-bottom: 18px; } .lp-content a { color: var(--sage-dark); text-decoration: underline; text-underline-offset: 3px; } .lp-content strong { color: var(--ink); } .lp-content blockquote { border-left: 3px solid var(--sage); padding: 12px 20px; margin: 28px 0; background: var(--cream); border-radius: 0 4px 4px 0; color: var(--stone); font-style: italic; } .lp-content ul, .lp-content ol { padding-left: 1.4em; margin-bottom: 18px; } .lp-content li { margin-bottom: 6px; } .lp-content hr { border: none; border-top: 1px solid rgba(122,158,135,0.25); margin: 48px 0; } /* ── FOOTER ── */ .lp-footer { background: var(--sage-dark); padding: 48px 40px; text-align: center; } .lp-footer-inner { max-width: 740px; margin: 0 auto; } .lp-footer-name { font-family: var(--font-display); font-size: 1.3rem; color: white; font-weight: 400; margin-bottom: 6px; } .lp-footer-tagline { font-size: 0.78rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--sage-light); margin-bottom: 24px; } .lp-footer-links { display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 28px; } .lp-footer-links a { font-size: 0.78rem; color: rgba(255,255,255,0.6) !important; text-decoration: none !important; letter-spacing: 0.08em; text-transform: uppercase; transition: color 0.2s; } .lp-footer-links a:hover { color: white !important; } .lp-footer-cta { display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.12); color: white !important; font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase; padding: 12px 24px; border-radius: 2px; text-decoration: none !important; border: 1px solid rgba(255,255,255,0.2); transition: background 0.3s; margin-bottom: 32px; display: block; max-width: 280px; margin: 0 auto 32px; } .lp-footer-cta:hover { background: rgba(255,255,255,0.2); } .lp-footer-copy { font-size: 0.72rem; color: rgba(255,255,255,0.35); letter-spacing: 0.06em; } /* ── RESPONSIVE ── */ @media (max-width: 800px) { .lp-header, .lp-footer { padding-left: 20px !important; padding-right: 20px !important; } .lp-content { padding-left: 20px !important; padding-right: 20px !important; } } </style> <!-- ═══════════════════════════════════════════════════════ --> <!-- CABEÇALHO — edite título, subtítulo e links abaixo --> <!-- ═══════════════════════════════════════════════════════ --> <div class="lp-header"> <div class="lp-header-eyebrow">Bruno Ferraz · Psicólogo Clínico</div> <h1>Título da <em>página</em></h1> <p class="lp-header-sub">Subtítulo ou descrição curta desta página. Edite aqui.</p> <nav class="lp-header-nav"> <a href="/" class="lp-header-link">Início</a> <a href="/sobre" class="lp-header-link">Sobre</a> <a href="/psicoterapia" class="lp-header-link">Abordagem</a> <a href="/contato" class="lp-header-link">Contato</a> <a href="https://wa.me/5521994668971?text=Ol%C3%A1%2C%20Bruno.%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20a%20terapia." class="lp-header-link primary" target="_blank">Agendar →</a> </nav> </div> <!-- ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼ --> <!-- INÍCIO DO CONTEÚDO — cole e edite seu Markdown aqui --> <!-- ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼ --> <div class="lp-content">
+
+## Seu título aqui
+
+Escreva seu texto normalmente em Markdown. Parágrafos, títulos, listas, negrito — tudo funciona aqui sem nenhum HTML.
+
+### Uma seção
+
+Você pode usar **negrito**, _itálico_, [links](https://origami.psc.br/) e qualquer recurso padrão do Markdown.
+
+- Item de lista
+- Outro item
+- Mais um
+
+> Uma citação ou destaque pode ser feita assim com blockquote.
+
+---
+
+Continue escrevendo quantas seções quiser abaixo desta linha.
+
+</div> <!-- ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲ --> <!-- FIM DO CONTEÚDO --> <!-- ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲ --> <!-- ═══════════════════════════════════════════════════════ --> <!-- RODAPÉ — normalmente não precisa editar --> <!-- ═══════════════════════════════════════════════════════ --> <div class="lp-footer"> <div class="lp-footer-inner"> <div class="lp-footer-name">Bruno Ferraz</div> <div class="lp-footer-tagline">Psicologia Clínica · Terapia Cognitivo-Comportamental</div> <a href="https://wa.me/5521994668971?text=Ol%C3%A1%2C%20Bruno.%20Gostaria%20de%20agendar%20uma%20sess%C3%A3o." class="lp-footer-cta" target="_blank">Agendar pelo WhatsApp →</a> <div class="lp-footer-links"> <a href="/">Início</a> <a href="/sobre">Sobre</a> <a href="/psicoterapia">Abordagem</a> <a href="/contato">Contato</a> </div> <div class="lp-footer-copy">© 2026 Bruno Ferraz · origami.psc.br</div> </div> </div>

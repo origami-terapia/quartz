@@ -1,12 +1,9 @@
 ---
-title: Bruno Ferraz | Psicólogo Clínico
-description: Psicoterapia individual na abordagem da Terapia Cognitivo-Comportamental (TCC). Atendimento online e presencial no Grajaú, Rio de Janeiro.
+description: 
 tags:
   - psicologia
   - psicoterapia
   - TCC
-  - saúde mental
-draft: false
 ---
 
 <style>
@@ -235,9 +232,9 @@ draft: false
 .lp-footer-links a:hover { color: white !important; }
 
 .lp-footer-cta {
-  display: block;
-  max-width: 280px;
-  margin: 0 auto 32px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
   background: rgba(255,255,255,0.12);
   color: white !important;
   font-size: 0.8rem;
@@ -248,6 +245,10 @@ draft: false
   text-decoration: none !important;
   border: 1px solid rgba(255,255,255,0.2);
   transition: background 0.3s;
+  margin-bottom: 32px;
+  display: block;
+  max-width: 280px;
+  margin: 0 auto 32px;
 }
 
 .lp-footer-cta:hover { background: rgba(255,255,255,0.2); }
@@ -266,7 +267,7 @@ draft: false
 </style>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--  CABEÇALHO                                            -->
+<!--  CABEÇALHO — edite título, subtítulo e links abaixo   -->
 <!-- ═══════════════════════════════════════════════════════ -->
 <div class="lp-header">
   <div class="lp-header-eyebrow">Bruno Ferraz · Psicólogo Clínico</div>
@@ -286,7 +287,21 @@ draft: false
 
 ## Seu título aqui
 
-Escreva seu texto normalmente em Markdown.
+Escreva seu texto normalmente em Markdown. Parágrafos, títulos, listas, negrito — tudo funciona aqui sem nenhum HTML.
+
+### Uma seção
+
+Você pode usar **negrito**, *itálico*, [links](https://origami.psc.br) e qualquer recurso padrão do Markdown.
+
+- Item de lista
+- Outro item
+- Mais um
+
+> Uma citação ou destaque pode ser feita assim com blockquote.
+
+---
+
+Continue escrevendo quantas seções quiser abaixo desta linha.
 
 </div>
 <!-- ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲ -->
@@ -294,7 +309,7 @@ Escreva seu texto normalmente em Markdown.
 <!-- ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲ -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--  RODAPÉ                                               -->
+<!--  RODAPÉ — normalmente não precisa editar               -->
 <!-- ═══════════════════════════════════════════════════════ -->
 <div class="lp-footer">
   <div class="lp-footer-inner">

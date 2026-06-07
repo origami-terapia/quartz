@@ -1,0 +1,5 @@
+# Terapia ocupacional com a arte do origami - Alan da Silva Fernandes
+
+
+
+TERAPIA OCUPACIONAL COM A ARTE DO ORIGAMIA importância da Terapia Ocupacional. Consiste em favorecer o papel ocupacional do indivíduo através da arte do origami, trazendo uma qualidade de vida melhor.Sua funçãoA função do origami é prevenir a inatividade e a tendência de um agravamento progressivo no relacionamento interpessoal e proporcionar um melhor desenvolvimento físico. Os principais benefícios.-Estimula a auto - estima; -Desenvolve a auto - confiança; -Desenvolve a coordenação motora; -Aumenta a capacidade de concentração e memorização; -Estimula a criatividade, a atenção e a paciência; -Predispõe a calma e a atenção.ConclusãoA arte do origami não consiste apenas em dobrar papéis, mas também, desenvolver dentro do indivíduo um potencial criativo que o fará expressar suas idéias e emoções com um simples pedaço de papel. É descobrir que somos capazes de resolver grandes problemas com pequenas soluções.
